@@ -1,0 +1,109 @@
+.t{
+    color: tomato;
+}
+body{
+    font-family: 'Karantina', cursive;
+    font-size: 25px;
+
+
+}
+h1{
+    font-size: 50px;
+}
+
+.half-width{
+    float: left;
+    width: 40%;
+}
+.w-50{
+    width: 50%;
+}
+.link{
+
+    text-decoration: none;
+    background-color: brown;
+    color: cornsilk;
+    border-radius: 10px;
+    padding: 10px 20px;
+    }
+    .moon img{
+        width: 100%;
+        height:500px ;
+    }
+  .margin{
+      margin: 10px;
+  }
+  .hello{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.center{
+    text-align: center;
+}
+.project-size{
+    width: 27%;
+    height: 400px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px gray;
+    text-align: left;
+    padding: 15px;
+    float: left;
+    margin: 0 atuo;
+    margin-right: 30px;
+    background-color: white;
+}
+.project-image img{
+    width: 100%;
+    height: 180px;
+    border-radius: 16px;
+}
+.project-text{
+    margin: auto;
+    padding-top: 15px;
+    width: 100%;
+    height: 100px;
+    border-radius: 16px;
+}
+#two{
+    float: left;
+    padding-top: 14px;
+    padding-left: 150px;
+    padding-bottom: 150px;
+    margin-top: 5%;
+    margin-bottom: 150px;
+    background-color: #E5E5E5;
+}
+.gap{
+    margin-bottom: 80px;
+}
+#three{
+    padding: 100px 30px;
+}
+.third-section-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    margin: 0 auto;
+    background-image: url(../web/images/personal-website-main/shapes/Group_33094_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px 50px;
+    border-radius: 45px;
+}
+h3{
+    display: block;
+    font-weight: bold;
+    font-size: 50px;
+}
+.button{
+    display: block;
+    background-color: orange;
+    background-image: linear-gradient(180deg,tomato,orange);
+    padding: 25px 35px;
+    font-weight: 600;
+    border-radius: 15px;
+    text-decoration: none;
+    font-size: 30px;
+}
